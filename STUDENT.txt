@@ -1,0 +1,2 @@
+APP_URL=<https://xsinau.github.io/appstory-v2/>
+MAP_SERVICE_API_KEY=<api_key>
